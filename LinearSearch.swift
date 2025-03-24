@@ -33,7 +33,7 @@ repeat {
 
     // Sort the array of random integers
     arrayRandomInts.sort()
-    
+
     // Print welcome message
     print("What number are you searching for in the list below? Enter 'q' " + "to quit.")
 
